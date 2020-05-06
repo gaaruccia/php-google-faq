@@ -75,7 +75,7 @@
       }
       footer{
         width: 100%;
-        background-color: grey;
+        background-color: #eee;
       }
       .flex{
         display: flex;
