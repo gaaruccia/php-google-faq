@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 ul{
   list-style: none;
@@ -44,10 +44,10 @@ h1{
 .linea{
   position: absolute;
   top: 94%;
-  left: 31%;
+  left: 29%;
   background-color: blue;
   height: 5px;
-  width: 165px;
+  width: 168px;
 }
 .menu{
   display: flex;
@@ -63,7 +63,7 @@ h1{
   padding-top: 24px;
 }
 main{
-  padding-top: 180px
+  padding-top: 180px;
 }
 .centratura{
   display: flex;
