@@ -1,0 +1,100 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+ul{
+  list-style: none;
+}
+header{
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  border-bottom: 1px grey solid;
+}
+.titolo{
+  display: flex;
+  align-items: center;
+  padding-left: 24px;
+}
+img{
+  width: 90px;
+}
+h1{
+  font-size: 20px;
+  padding-left: 6px;
+  padding-bottom: 24px;
+  padding-top: 24px;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 6px;
+  position: relative;
+}
+.navbar ul li{
+  display: inline-block;
+  padding-left: 24px;
+}
+.blue{
+  color: blue;
+}
+.linea{
+  position: absolute;
+  top: 94%;
+  left: 31%;
+  background-color: blue;
+  height: 5px;
+  width: 165px;
+}
+.menu{
+  display: flex;
+  align-items: center;
+}
+.account{
+  padding-right: 24px;
+}
+.padding-bottom{
+  padding-bottom: 24px;
+}
+.padding-top{
+  padding-top: 24px;
+}
+main{
+  padding-top: 180px
+}
+.centratura{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 978px;
+  margin: 0 auto;
+  padding-bottom: 120px;
+}
+footer{
+  width: 100%;
+  background-color: #eee;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 978px;
+  margin: 0 auto;
+}
+.flex ul li{
+  display: inline-block;
+  padding-left: 6px;
+}
+.info{
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.info ul li a{
+  font-size: 12px;
+}
+.info select{
+  width: 200px;
+}
