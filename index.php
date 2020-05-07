@@ -54,10 +54,10 @@
       <div class="flex">
         <div class="info">
           <ul>
-            <li><a href="#">Google</a></li>
-            <li><a href="#">Tutto su Google</a></li>
-            <li><a href="#">Privacy</a></li>
-            <li><a href="#">Termini</a></li>
+            <li><a class="grey" href="#">Google</a></li>
+            <li><a class="grey" href="#">Tutto su Google</a></li>
+            <li><a class="grey" href="#">Privacy</a></li>
+            <li><a class="grey" href="#">Termini</a></li>
           </ul>
         </div>
         <div class="info">

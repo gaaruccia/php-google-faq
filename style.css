@@ -39,15 +39,16 @@ h1{
   padding-left: 24px;
 }
 .blue{
-  color: blue;
+  color: #3367d6;
 }
 .linea{
   position: absolute;
-  top: 94%;
-  left: 29%;
-  background-color: blue;
-  height: 5px;
-  width: 168px;
+  top: 88%;
+  left: 34%;
+  background-color: #3367d6;
+  height: 3px;
+  width: 142px;
+  transform: translate(-58%);
 }
 .menu{
   display: flex;
@@ -94,6 +95,9 @@ footer{
 }
 .info ul li a{
   font-size: 12px;
+}
+.grey{
+  color: grey;
 }
 .info select{
   width: 200px;
